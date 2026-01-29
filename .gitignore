@@ -1,0 +1,8 @@
+# Security (Secrets)
+.env
+
+# Python Junk
+__pycache__/
+*.pyc
+venv/
+.DS_Store
